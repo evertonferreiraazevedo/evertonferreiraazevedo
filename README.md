@@ -1,79 +1,94 @@
 # 👨‍💻 Everton Azevedo
 
-### Instrutor de Tecnologia | Desenvolvedor de Sistemas
+### Professor de Tecnologia | Desenvolvedor de Sistemas | Full Stack
 
-Olá! Sou **Everton Azevedo**, formado em **Sistemas e Mídias Digitais** e atuo como **Instrutor de Tecnologia no Senac Ceará**, trabalhando com formação profissional na área de programação e desenvolvimento de sistemas.
+Olá! Sou **Everton Azevedo**, profissional da área de Tecnologia e Educação, formado em **Sistemas e Mídias Digitais pela Universidade Federal do Ceará (UFC)** e atualmente Concluindo **Pós-Graduação em Desenvolvimento Full Stack**.
 
-Tenho experiência com **desenvolvimento web, programação, desenvolvimento de sistemas e tecnologias educacionais**, buscando sempre unir conhecimento técnico e prática em sala de aula.
+Atualmente estou como **Instrutor de Tecnologia no Senac Ceará**, trabalhando com formação profissional nas áreas de **programação, desenvolvimento de sistemas e desenvolvimento Web**.
 
----
-
-## 🚀 Tecnologias
-
-### 💻 Desenvolvimento Web
-
-* HTML
-* CSS
-* JavaScript
-* Django
-* Desenvolvimento de aplicações Web
-
-### 🐍 Programação
-
-* Python
-* Lógica de Programação
-* Programação Orientada a Objetos
-* Desenvolvimento de Sistemas
-
-### 🗄️ Outros conhecimentos
-
-* Banco de Dados
-* Git e GitHub
-* Desenvolvimento de projetos
-* Metodologias e ferramentas para ensino de tecnologia
+Tenho experiência em educação tecnológica desde 2014, atuando com programação, desenvolvimento de jogos, robótica, cultura maker e tecnologias educacionais.
 
 ---
 
-## 👨‍🏫 Experiência
+## 🚀 Tecnologias e conhecimentos
+
+* 🐍 **Python**
+* 🌐 **HTML, CSS e JavaScript**
+* 🚀 **Django**
+* 🗄️ **Banco de Dados**
+* 🔧 **Git e GitHub**
+* 💻 **Desenvolvimento Web e de Sistemas**
+* 🤖 **Arduino e Robótica**
+* 🎮 **Desenvolvimento de Jogos**
+* 🧠 **Lógica de Programação e Pensamento Computacional**
+
+---
+
+## 👨‍🏫 Experiência Profissional
 
 ### Senac Ceará
 
-**Instrutor de Tecnologia** — desde 2024
+**Instrutor de Tecnologia | 05/2024 – Atual**
 
-Atuação em cursos e unidades curriculares relacionadas a:
+Atuação na formação profissional em tecnologia, com planejamento e aplicação de aulas teóricas e práticas nas áreas de **programação, desenvolvimento Web e desenvolvimento de sistemas**.
 
-* Programação e desenvolvimento de sistemas
-* Desenvolvimento Web
-* Python
-* Desenvolvimento de aplicações
-* Lógica de programação
-* Projetos práticos de tecnologia
+### Colégio Elite Profissionalizante
 
-Meu trabalho envolve não apenas o desenvolvimento técnico, mas também a **construção de atividades práticas e projetos para formação profissional**.
+**Professor | 04/2023 – Atual**
+
+Ensino de Informática, Pacote Office e tecnologias digitais, com desenvolvimento de atividades práticas e acompanhamento da aprendizagem dos alunos.
+
+### Colégio Antares Santos Dumont
+
+**Professor de Tecnologia | 02/2017 – 01/2025**
+
+Atuação com **programação, desenvolvimento de jogos, robótica educativa, cultura maker e pensamento computacional**, além da criação e orientação de projetos tecnológicos.
+
+### UFC Virtual
+
+**Estagiário | 01/2014 – 12/2014**
+
+Participação em projetos de **Robótica Educativa, Arduino, Computação Física e Eletrônica Básica**.
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Pós-Graduação em Desenvolvimento Full Stack**
+Faculdade Focus — 2026/2027
+
+**Sistemas e Mídias Digitais**
+Universidade Federal do Ceará — 2014/2020
+
+**Técnico em Redes de Computadores**
+EEEP Paulo Petrola — 2011/2013
 
 ---
 
 ## 📚 Projetos
 
-Alguns dos projetos e materiais disponíveis neste perfil estão relacionados à minha atuação profissional e acadêmica, incluindo projetos desenvolvidos com **Python, Django, desenvolvimento Web e programação de sistemas**.
+Aqui você encontrará projetos desenvolvidos ao longo da minha trajetória acadêmica e profissional, incluindo aplicações e atividades com **Python, Django, desenvolvimento Web, programação de sistemas, jogos e tecnologias educacionais**.
 
-🔎 Confira meus repositórios para conhecer alguns dos projetos:
-
-👉 [Meus repositórios](https://github.com/evertonferreiraazevedo?tab=repositories)
+🔗 **[Ver meus repositórios](https://github.com/evertonferreiraazevedo?tab=repositories)**
 
 ---
 
 ## 🎯 Atualmente
 
-Estou constantemente buscando aprimorar meus conhecimentos em **desenvolvimento de software, tecnologias Web, Python e novas ferramentas utilizadas pelo mercado**, além de explorar formas de tornar o ensino de programação cada vez mais prático e conectado às necessidades profissionais.
+Estou aprofundando meus conhecimentos em **Desenvolvimento Full Stack**, com foco em tecnologias de Front-end, Back-end, APIs, bancos de dados e desenvolvimento de aplicações Web.
+
+Paralelamente, continuo atuando na **formação de profissionais de tecnologia**, buscando conectar conhecimento técnico, prática e realidade do mercado.
 
 ---
 
 ## 📫 Contato
 
-💼 [LinkedIn](#)
-📧 E-mail: *seu e-mail profissional*
+💻 **GitHub:** [github.com/evertonferreiraazevedo](https://github.com/evertonferreiraazevedo)
+
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/everton-azevedo-a5445631b/)
+
+📧 **E-mail:** everton.azevedo95@gmail.com
 
 ---
 
-> **"Aprender tecnologia é, principalmente, colocar a mão no código."** 🚀
+> **Tecnologia, educação e prática para transformar ideias em soluções.** 🚀
